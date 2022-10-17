@@ -1,0 +1,25 @@
+[
+    {
+       "author": "Alex",
+       "content": "lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1",
+       "rating": 3.2
+    },
+
+    {
+        "author": "Ron",
+        "content": "lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1",
+        "rating": 3.8
+     },
+
+     {
+        "author": "John",
+        "content": "lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1",
+        "rating": 4.2
+     },
+
+     {
+        "author": "Marry",
+        "content": "lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1 lorem1",
+        "rating": 2.2
+     }
+]
